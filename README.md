@@ -34,7 +34,7 @@
 聊天信息文件进行提取和解密，并进一步处理导出为可用的用户数据或是清洗为用于训练模型的数据
 
 可能的解决方案：
-* 微信数据提取可以参考github上(:star:6.9k仍在维护更新)的项目[PyWxDump](https://github.com/xaoyaoo/PyWxDump)提供的源码以及教程,可以提取转换为html,csv等格式
+* 微信数据提取可以参考github上( :star: 6.9k仍在维护更新)的项目[PyWxDump](https://github.com/xaoyaoo/PyWxDump)提供的源码以及教程,可以提取转换为html,csv等格式
 * QQNT的数据提取则可以学习专门解密查看QQ聊天文件的社区网站[QQDecrypt](https://qq.sbcnm.top/)中提供的教程
 以及其中标明的针对各平台提取的github项目
 * 如果需要训练模型对数据进行清洗，...待补充
@@ -82,7 +82,7 @@
     预计结果：极难实现，能做到一部分也可能是工具下架以及涉及商业违法~~<br>
 
 2.基础功能的平台数量扩展：<a id="pe2"></a>
-* 出于对Python爬虫的部分认知，考虑借助爬虫爬取<font color = yellow>校园oa网站</font>以获取更多相关通知信息作为源数据
+* 出于对Python爬虫的部分认知，考虑借助爬虫爬取<font color = yellow>校园oa网站 </font> 以获取更多相关通知信息作为源数据
 * 通过生活中大部分邮箱账号可登入不同邮箱平台的现象以及[CSDN上有关邮箱提取的介绍](https://blog.csdn.net/weixin_35757704/article/details/132623569)，
 认为实现对<font color = yellow>邮箱信息</font>的提取具有一定的可行性，适合作为考虑项
     
