@@ -10,7 +10,7 @@
 该工具本质上被设计看作是一个针对聊天平台的信息搬运处理软件，
 以<font color = red>信息的准确性</font>传递为第一标准，而信息本身的真伪交由用户自身判断。
 作为一个<font color = red>信息二次接收集中端</font>，用户一般情况下只考虑<font color = red>只读</font>权限
-...待补充()
+...待补充
 全程基于Core进行功能的开发
 
 #### Expected Fuction
